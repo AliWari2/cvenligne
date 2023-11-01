@@ -1,0 +1,190 @@
+body{
+    background-image: linear-gradient(#e679b0 , #efb9b9) ;
+    height: 122vh;
+    font-weight: bold;
+    letter-spacing: 2px;
+   /* background: url('image/neige.jpg');*/
+    opacity: 0px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.id{
+    background-image: linear-gradient(white);
+}
+
+
+*{
+    margin: 0px; padding: 0px; font-family: 'Montserrat',sans-serif;
+}
+.main{
+    background-color: white;
+    height: auto;
+    width: 650px;
+    position:fixed;
+    transform: translate(-50%,-50%);
+    left: 25%;
+    top: 50%;
+}
+.section{
+    /*background-color: #ddd;*/
+    /*border-radius: 50%;*/
+    
+    position: relative;
+    /*border: 10px solid rgb(32, 229, 229);*/
+    /*box-shadow: 10px 10px 9px 5px #16151473;*/
+}
+.sention{
+    position: relative;
+    text-align: left;
+    border: 20px ;
+   /* box-shadow: 10px 10px 9px 5px #16151473;*/
+}
+.alimi{
+    position: relative;
+    text-align: left;
+}
+.left{
+    background-color: rgb(32, 229, 229);
+    width: 200px;
+    height: 100%;
+    float: left;
+    top: 30px;
+    left: 5%;
+}
+.right{
+    width: 450px;
+    float: left;
+}
+.image{
+    height: 180px;
+    width: 180px;
+    background-color: #ddd;
+    border-radius: 50%;
+    margin-bottom:20px;
+    margin-left: 60px;
+    border: 10px solid rgb(32, 229, 229);
+    box-shadow: 6px 7px 9px 5px #16151473;
+}
+.image img{
+    width:100%;
+    border-radius: 50%;
+}
+.ebr{
+    position: relative;
+    overflow: hidden;
+}
+.ali{
+    background-color: black;
+    padding: 10px;
+    color: rgb(32, 229, 229);
+    text-align: left;
+    padding-left: 20px;
+    position: relative;
+    overflow: hidden;
+}
+.p1{
+    padding: 9px;
+    font-size: 11px;
+    overflow: hidden;
+}
+.icons1{
+    font-size: 16px!important;
+    padding-right: 10px;
+   /* vertical-align: sub;*/
+}
+.ngis{
+    width: 90%;
+    background-color: #4d4d4d;
+    margin: 0px 10px;
+}
+.skill{
+    text-align: right;
+    padding-top:2px;
+    padding-bottom: 2px;
+    color: white;
+    position: relative;
+    overflow: hidden;
+}
+.html{
+    width: 90%;
+    background-color: white;
+}
+.css{
+    width: 78%;
+    background-color: white;
+}
+.javascript{
+    width: 67%;
+    background-color: white;
+}
+.langagec{
+    width: 80%;
+    background-color: white;
+}
+.web{
+    width: 70%;
+    background-color: white;
+}
+.arabe{
+    width: 75%;
+    background-color: white;
+}
+.france{
+    width: 95%;
+    background-color: white;
+}
+.anglais{
+    width: 65%;
+    background-color: white;
+}
+.icons2{
+    padding:18px 10px;
+}
+.name-div{
+    padding: 86px 0px 60px 55px;
+    text-align: center;
+    letter-spacing: 3px;
+}
+.name-div {
+    padding: 86px 0px 60px 55px;
+    text-align: center;
+    letter-spacing: 3px;
+}
+.name-div h1{
+    margin-bottom: 10px;
+    position: relative;
+    overflow: hidden;
+}
+.bor{
+    padding: 0px 50px;
+    margin-top: 30px;
+}
+.p2{
+    font-size: 10px;
+    font-weight: 300;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    line-height: 18px;
+    margin-top: 5px;
+    position: relative;
+}
+h2{
+    font-size: 16px;
+    margin-bottom: 15px;
+    position: relative;
+    overflow: hidden;
+}
+.icons3{
+    vertical-align: bottom;
+    font-size: 21px!important;
+    color: #4d4d4d;
+}
+.p3{
+    font-size: 13px;
+    word-spacing: 1px;
+    letter-spacing: 0px;
+    margin-top: 10px;
+}
+.p3 span{
+    color: rgb(32, 229, 229); padding-left: 20px;
+}
